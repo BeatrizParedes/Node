@@ -4,7 +4,7 @@
   "description": "",
   "main": "01-fundamentos-node.js",
   "scripts": {
-    "dev": "node --watch ./src/server.js"
+    "dev": "node --watch ./src/server.js" 
   },
   "repository": {
     "type": "git",
